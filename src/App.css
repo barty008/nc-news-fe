@@ -1,0 +1,15 @@
+.hero-pic {
+  width: 50%;
+  margin: 10px;
+}
+.navbar-brand {
+  padding: 10px;
+}
+.welcome-article {
+  text-align: center;
+  padding: 10px;
+}
+.card-body {
+  margin: 0 auto;
+  width: 70%;
+}
